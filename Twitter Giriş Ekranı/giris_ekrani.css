@@ -1,0 +1,187 @@
+.ekran{
+    position: absolute;
+    width: 2244px;
+    height: 1073px;
+    margin: -8px;
+    background-color: rgb(42, 44, 56);
+}
+
+.orta_ekran{
+    position: absolute;
+    top: 5%;
+    left: 30%;
+    width: 897px;
+    height: 965px;
+    background-color: black;
+    border-radius: 23px;
+}
+
+
+.ust_bar #carpı{
+    position: absolute;
+    top: 3%;
+    left: 4%;
+    color:white;
+    font-size: 35px;
+}
+.ust_bar #twitter_icon{
+    position: absolute;
+    top: 2%;
+    left: 45%;
+    color:white;
+    font-size: 45px;
+}
+
+.twitter_giris_yap h1{
+    position: absolute;
+    top: 100px;
+    left: 225px;
+    color: white;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.google_giris_yap{
+    position: absolute;
+    width: 430px;
+    height: 60px;
+    top: 250px;
+    left: 230px;
+    border: 1px solid white;
+    border-radius: 30px;
+    background-color: white;
+}
+.google_giris_yap #google_logo{
+    position: absolute;
+    font-size: 30px;
+    top: 14px;
+    left: 80px;
+    color:rgba(255, 8, 0, 0.384) ;
+}
+.google_giris_yap h2{
+    position: absolute;
+    left: 120px;
+    top: -2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.apple_giris_yap{
+    position: absolute;
+    width: 430px;
+    height: 60px;
+    top: 350px;
+    left: 230px;
+    border: 1px solid white;
+    border-radius: 30px;
+    background-color: white;
+}
+.apple_giris_yap #apple_logo{
+    position: absolute;
+    font-size: 37px;
+    top: 12px;
+    left: 83px;
+    color:black;
+
+}
+.apple_giris_yap h2{
+    position: absolute;
+    left: 120px;
+    top: -2px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+.orta_cizgi #sol{
+    position: absolute;
+    top: 450px;
+    left: 240px;
+}
+.orta_cizgi #sag{
+    position: absolute;
+    top: 450px;
+    left: 490px;
+}
+.orta_cizgi h2{
+    position: absolute;
+    top: 415px;
+    left: 420px;
+    font-size: 28px;
+    color: rgb(219, 219, 219);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.inputlar{
+    position: absolute;
+    width: 430px;
+    height: 430px;
+    top: 500px;
+    left: 230px;
+    border: 1px solid black;
+}
+
+.inputlar #kullanici_adi{
+    position: absolute;
+    width: 430px;
+    height: 90px;
+    border: 1px solid rgb(92, 92, 92);
+    background-color: black;
+    color: white;
+    font-size: 28px;
+    border-radius: 8px;
+}
+.inputlar #kullanici_adi:hover{
+    border: 1px solid grey;
+}
+.inputlar #buton_ileri{
+    position: absolute;
+    width: 420px;
+    height: 60px;
+    background-color: white;
+    top: 140px;
+    left: 8px;
+    border-radius: 30px;
+    color: black;
+    font-size: 27px;
+}
+.inputlar #buton_ileri:hover{
+    background-color: rgb(209, 209, 209);
+}
+.inputlar #buton_sifre_unuttu{
+    position: absolute;
+    width: 420px;
+    height: 60px;
+    background-color:black;
+    top: 240px;
+    left: 8px;
+    border: 1px solid darkgray;
+    border-radius: 30px;
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+}
+.inputlar #buton_sifre_unuttu:hover{
+    background-color:rgb(47, 47, 47);
+}
+
+.inputlar h3{
+    position: absolute;
+    font: 20px;
+    color: darkgray;
+    top: 350px;
+    left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0.03cm;
+}
+.inputlar h3 a:link{
+    text-decoration: none;
+}
+.inputlar h3 a:hover{
+    text-decoration:underline;
+}
+
